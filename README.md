@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shakhriyor Kurbonov
 - 👀 I’m interested in android programming
 - 🌱 I’m currently learning android programming
-- 💻 I'm junior android developer now
 
 <!---
 ShakhriyorKurbonov/ShakhriyorKurbonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
